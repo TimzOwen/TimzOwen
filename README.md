@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm Timz Owen #ALCBoy </h1>
+<h1 align="center">Hi 👋, I'm Timz Owen #ALCBoy</h1>
 <h3 align="center">A Passionate Software Developer & Community Ninja.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timzowen" alt="timzowen" /></a> </p>
 
 - 🌱 I’m currently learning **Spring, Tensorflow, Python, Android, SRE/DevOps**
 
-- 👨‍💻 All of my projects are available at [Github TimzOwen](github.com/TimzOwen)
+- 👨‍💻 All of my projects are available at [Github](github.com/TimzOwen)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@bakshiowen2010)
 
 - 💬 Ask me about **Andriod, Tensorflow , Automation**
 
-- ⚡ Fun fact **Tech Mc & Champion Eating Competition**
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/timothy-owen-465895169/)
+
+- ⚡ Fun fact **Meetups Mc & Champion Eating Competition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/timz_owen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="timz_owen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/timothy-owen-465895169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/timothy-owen-465895169/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/excellencymaswan.owen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/excellencymaswan.owen/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/timothy-owen-465895169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timothy-owen-465895169" height="30" width="40" /></a>
+<a href="https://fb.com/excellencymaswan.owen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="excellencymaswan.owen" height="30" width="40" /></a>
 <a href="https://medium.com/@bakshiowen2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bakshiowen2010" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc803y7odbsapftp4wu1ufva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc803y7odbsapftp4wu1ufva" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC803Y7oDBSaPFTP4WU1ufvA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc803y7odbsapftp4wu1ufva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timzowen&show_icons=true&locale=en&layout=compact" alt="timzowen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timzowen&show_icons=true&locale=en" alt="timzowen" /></p>
-
