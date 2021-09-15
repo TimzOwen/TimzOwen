@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **Spring, Tensorflow, Python, Android, SRE/DevOps**
 
-- 👨‍💻 All of my projects are available at [github.com/TimzOwen](github.com/TimzOwen)
+- 👨‍💻 All of my projects are available at [Github TimzOwen](github.com/TimzOwen)
 
-- 📝 I regularly write articles on [https://medium.com/@bakshiowen2010](https://medium.com/@bakshiowen2010)
+- 📝 I regularly write articles on [Medium](https://medium.com/@bakshiowen2010)
 
 - 💬 Ask me about **Andriod, Tensorflow , Automation**
-
-- 📫 How to reach me **timzowen1130@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/timothy-owen-465895169/](https://www.linkedin.com/in/timothy-owen-465895169/)
 
 - ⚡ Fun fact **Tech Mc & Champion Eating Competition**
 
