@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring, Tensorflow, Python, Android, SRE/DevOps**
 
-- 👨‍💻 All of my projects are available at [Github](github.com/TimzOwen)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/TimzOwen)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@bakshiowen2010)
 
