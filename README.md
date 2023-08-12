@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@bakshiowen2010)
 
-- 💬 Ask me about **Andriod, Tensorflow , Automation**
+- 💬 Ask me about **Andriod, SRE , Automation**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/timothy-owen-465895169/)
 
-- ⚡ Fun fact **Meetups Mc & Champion Eating Competition**
+- ⚡ Fun fact **Meetups Mc & Championing community**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
