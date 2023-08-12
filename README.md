@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timzowen" alt="timzowen" /></a> </p>
 
-- 🌱 I’m currently learning **Spring, Tensorflow, Python, Android, SRE/DevOps**
+- 🌱 Dancing to  **Spring, Automation, Python, Android, SRE/DevOps**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/TimzOwen)
 
