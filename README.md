@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/TimzOwen)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@bakshiowen2010)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@bakshiowen2010)
 
-- 💬 Ask me about **Andriod, SRE , Automation**
+- 💬 Ask me about **Andriod, SRE , Automation , Java**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/timothy-owen-465895169/)
 
-- ⚡ Fun fact **Meetups Mc & Championing community**
+- ⚡ Fun fact **Mic Maestro & Championing community**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
