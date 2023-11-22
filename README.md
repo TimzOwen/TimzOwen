@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/TimzOwen)
 
-- 📝 I sometimes write articles on [Medium](https://medium.com/@bakshiowen2010)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@timzowen)
 
 - 💬 Ask me about **Andriod, SRE , Automation , Java**
 
