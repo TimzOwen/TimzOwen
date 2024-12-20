@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Timz Owen #ALCBoy</h1>
-<h3 align="center">A Passionate Software Developer & Community Ninja.</h3>
+<h3 align="center">A Senior Software Engineer & Community Champion</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timzowen" alt="timzowen" /></a> </p>
 
-- 🌱 Dancing to  **Spring, Automation, Python, Android, SRE/DevOps**
+- 🌱 Building  **Springboot, Automation, Python, Android, SRE/DevOps**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/TimzOwen)
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@timzowen)
 
-- 💬 Ask me about **Andriod, SRE , Automation , Java**
+- 💬 Ask me about **Andriod, SRE , Automation , Java, Kotlin**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/timothy-owen-465895169/)
 
